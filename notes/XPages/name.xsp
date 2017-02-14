@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xp:view xmlns:xp="http://www.ibm.com/xsp/core">
-	<h2><xp:label value="Page name: home.xsp" id="label1"></xp:label></h2>
+	<h2><xp:label value="Page name: name.xsp" id="label1"></xp:label></h2>
+	<xp:label value="Label" id="label2"></xp:label>
 </xp:view>
